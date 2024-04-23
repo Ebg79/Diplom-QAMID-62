@@ -100,8 +100,21 @@
 ### Документация:
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1Xj3cG2Ij43NYGPQxyNjHDCbNWh79tXujFpdhNK30fjQ/edit?usp=sharing)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1iDOEPZtbnSUhR3piLzn3FsXXe-ZwY0YzvvtZjPL0pkc/edit?usp=sharing)
+  
+### Тест-план для проверки приложения
+
+ - Проверка экрана авторизации
+ - Проверка экрана "Main"  
+ - Проверка экрана "News"    
+ - Проверка экрана "About"     
+ - Проверка приветственного экрана "Splash Screen" 
+ - Проверка экрана "Love is all" с цитатами
 
 ### Перечень используемых инструментов с обоснованием выбора
+
 - `Android Studio` среда разработки для Android/наличие встроенных эмуляторов/возможность инспектировать графические элементы
+- `Visual Stidio Code` созданиt и редактированиt файлов в формате Markdown
 - `Github` репозиторий для хостинга IT-проектов и совместной разработки
+- `Espresso` фреймворк для тестирования приложений на Android
+- `Charles` перехват трафика
 - `Allure` инструмент для графического представления отчетности
